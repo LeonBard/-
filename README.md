@@ -1,4 +1,4 @@
-![image](https://github.com/LeonBard/Air-Fryer-Controller-For-Reflowsoldering/raw/main/pic/pic%20(1).JPG)
+![image](https://github.com/LeonBard/Air-Fryer-Controller-For-Reflowsoldering/raw/main/pics/top.JPG)
 
 
 
