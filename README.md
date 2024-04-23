@@ -1,4 +1,4 @@
-点击[这里](https://github.com/LeonBard/BW-Reflowsoldering-Controller/blob/04fecf09887d0cb8f4d2033c0902c5d2693d4c4f/BW-RFS-CTL-FOR-AF.pdf)下载上手指南。
+点击[这里](https://github.com/LeonBard/BW-Reflowsoldering-Controller/blob/04fecf09887d0cb8f4d2033c0902c5d2693d4c4f/BW-RFS-CTL-FOR-AF.pdf)跳转至上手指南。
 
 
 
